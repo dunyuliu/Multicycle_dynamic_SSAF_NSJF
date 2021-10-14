@@ -1,6 +1,6 @@
 # Multicycle_dynamic_SSAF_NSJF
 
-## The repository hosts software, fault geometric structure, model, and result for the manuscript 'Observation-constrained multicycle dynamic models of the southern San Andreas and the northern San Jacinto Faults: addressing complexity in paleoearthquake extents and recurrences with realistic fault geometry.' by Dunyu Liu, Benchun Duan, Katerine Scharer, and Doug Yule, which is submitted to JGR Solid Earth.
+### The repository hosts software, fault geometric structure, model, and result for the manuscript 'Observation-constrained multicycle dynamic models of the southern San Andreas and the northern San Jacinto Faults: addressing complexity in paleoearthquake extents and recurrences with realistic fault geometry.' by Dunyu Liu, Benchun Duan, Katherine Scharer, and Doug Yule, which is submitted to JGR Solid Earth.
 
 ## ./exe/ 
 The direcotry contains the executable of EQdyna version 2.0.2 that is used to produce the Model A, B, and C. With input files located in the same directory, eqdyna2d_2.0.2 should run on linux systems.
